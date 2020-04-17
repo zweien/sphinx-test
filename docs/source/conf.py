@@ -24,7 +24,7 @@ author = "zweien"
 # The full version, including alpha/beta/rc tags
 release = "v0.0.1"
 
-master_doc = 'index.rst'
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -60,3 +60,5 @@ html_theme = "alabaster"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
+
+master_doc = 'index'
